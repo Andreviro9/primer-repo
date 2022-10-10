@@ -1,0 +1,10 @@
+¿Qué significa?
+CLS:borrar todos los comandos.
+CD:Para salir de la carpeta de users.
+MD:Crear una carpeta nueva.
+ECHO: Echo sirve para repetir la palabra.
+Color: Para cambiar el color de la barra de comandos.
+Dir:Para ver las cosas del escritorio.
+¿Como se abre la barra de comandos: Con windows+r y cmd
+¿Para que es >:Para dirigir a un lugar.
+¿Para que es *:Para agregar todo.
